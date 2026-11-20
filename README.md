@@ -98,4 +98,11 @@ If you reference this architecture or codebase in academic work, please cite:
   howpublished = {GitHub Repository},
   url          = {https://github.com/RagibNadim/Bijli-Sync-AI}
 }
+@misc{noshin2026bijlisync,
+  author       = {Rahman, Noshin Saiyara}
+  title        = {Bijli-Sync-AI: A Human-Centered AI System for Explainable Power Monitoring and Blackout-Risk Prediction},
+  year         = {2026},
+  howpublished = {GitHub Repository},
+  url          = {https://github.com/noshin-saiyara-rahman/BijliSyncAI.git}
+}
 ```
