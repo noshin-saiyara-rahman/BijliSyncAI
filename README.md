@@ -91,13 +91,6 @@ python train_and_explain.py
 If you reference this architecture or codebase in academic work, please cite:
 
 ```bibtex
-@misc{nadim2026bijlisync,
-  author       = {Nadim, Ragib},
-  title        = {Bijli-Sync-AI: A Human-Centered AI System for Explainable Power Monitoring and Blackout-Risk Prediction},
-  year         = {2026},
-  howpublished = {GitHub Repository},
-  url          = {https://github.com/RagibNadim/Bijli-Sync-AI}
-}
 @misc{noshin2026bijlisync,
   author       = {Rahman, Noshin Saiyara}
   title        = {Bijli-Sync-AI: A Human-Centered AI System for Explainable Power Monitoring and Blackout-Risk Prediction},
