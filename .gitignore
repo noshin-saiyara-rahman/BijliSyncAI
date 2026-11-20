@@ -1,0 +1,28 @@
+# Secrets & Local Credentials (NEVER commit config.h or .env)
+firmware/include/config.h
+.env
+*.secret
+
+# PlatformIO / ESP32 Build Artifacts
+firmware/.pio/
+firmware/.vscode/
+*.bin
+*.elf
+*.map
+
+# Python & ML Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ai_pipeline/models/*.joblib
+ai_pipeline/models/*.pkl
+ai_pipeline/outputs/*.png
+!ai_pipeline/sample_telemetry.csv
+
+# OS & Editor Files
+.DS_Store
+Thumbs.db
+*.swp
+*~
